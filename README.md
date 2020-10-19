@@ -19,5 +19,16 @@ This ChatBot's Intention is to bridge the gap of finding problems based on the t
 # References 
 	# Installation 
 	
+		pip install requests
+		Allows us to send HTTP requests easily.
+		
+		pip install pyttsx3
+		For converting Text to speech.
+		
+		pip install random
+		For Selecting a random object in a given range
+		
+		pip install datetime
+		For finding Date and Time.
 	# Documentation 
 	
