@@ -7,7 +7,7 @@
 
 ## Objective of our Bot
  * This is a ChatBot which helps in finding Programs based on the Users input Tags.
- * And responds with a random sequence of 10 programs from the website codeforces.com followed by thier respective Links.
+ * And responds with a random sequence of 10 programs from the website codeforces.com followed by their respective Links.
 
 [![Requests Version](https://img.shields.io/badge/requests-2.24.0-orange)](https://pypi.org/project/requests/)
 [![Pyttsx3 Version](https://img.shields.io/badge/pyttsx3-2.90-green)](https://pypi.org/project/pyttsx3/)
@@ -45,7 +45,7 @@ This ChatBot's Intention is to bridge the gap of finding problems based on the t
 
 ## Block Diagram :
 
-![Screenshot (38)](https://user-images.githubusercontent.com/72602927/96450974-85f5a600-1234-11eb-8629-e216d5c2ecf6.png))
+![Screenshot (38)](https://user-images.githubusercontent.com/72602927/96450974-85f5a600-1234-11eb-8629-e216d5c2ecf6.png)
 
 ## Youtube Link :
 
