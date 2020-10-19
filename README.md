@@ -45,6 +45,8 @@ This ChatBot's Intention is to bridge the gap of finding problems based on the t
 
 ## Block Diagram :
 
+![Screenshot (38)](https://user-images.githubusercontent.com/72602927/96450974-85f5a600-1234-11eb-8629-e216d5c2ecf6.png))
+
 ## Youtube Link :
 
 [![Youtube Link](https://user-images.githubusercontent.com/72602927/96446734-14ffbf80-122f-11eb-815f-30c5f3112d2c.png)](https://youtu.be/YOr-dkpKeMI)
