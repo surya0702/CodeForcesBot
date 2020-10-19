@@ -17,18 +17,16 @@ Through this chatbot users can easily search the programs based on their interes
 This ChatBot's Intention is to bridge the gap of finding problems based on the topics with ease through a console.
 
 # References 
-	# Installation 
 	
-		pip install requests
-		Allows us to send HTTP requests easily.
+	pip install requests
+Allows us to send HTTP requests easily.
 		
-		pip install pyttsx3
-		For converting Text to speech.
+	pip install pyttsx3
+For converting Text to speech.
 		
-		pip install random
-		For Selecting a random object in a given range
+	pip install random
+For Selecting a random object in a given range
 		
-		pip install datetime
-		For finding Date and Time.
-	# Documentation 
+	pip install datetime
+For finding Date and Time. 
 	
