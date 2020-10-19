@@ -47,4 +47,4 @@ This ChatBot's Intention is to bridge the gap of finding problems based on the t
 
 # Youtube Link :
 
-	![screenshot-nimbus-capture-2020 10 19-17_14_49](https://user-images.githubusercontent.com/72602927/96446734-14ffbf80-122f-11eb-815f-30c5f3112d2c.png)(https://youtu.be/YOr-dkpKeMI)
+![screenshot-nimbus-capture-2020 10 19-17_14_49](https://user-images.githubusercontent.com/72602927/96446734-14ffbf80-122f-11eb-815f-30c5f3112d2c.png)(https://youtu.be/YOr-dkpKeMI)
