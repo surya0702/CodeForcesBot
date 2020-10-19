@@ -1,4 +1,4 @@
-# ![Ml Project](https://miro.medium.com/max/1050/1*E3GYv4MaeXpm7Rfu5f4Bug.png)
+# Ml Project
 
 ## Our Team :-
  * Gera Abhishek ( 19pa1a0548 )
@@ -29,7 +29,7 @@ Through this chatbot users can easily search the programs based on their interes
 
 This ChatBot's Intention is to bridge the gap of finding problems based on the topics with ease through a console.
 
-# References 
+# Installation & References
 	
 	pip install requests
 [requests](https://pypi.org/project/requests/) allows us to send HTTP requests easily.
@@ -42,4 +42,8 @@ This ChatBot's Intention is to bridge the gap of finding problems based on the t
 		
 	pip install datetime
 [datetime](https://pypi.org/project/datetime/) helps in finding Date and Time. 
-	
+
+# Block Diagram of our Bot :
+
+# Youtube Link :
+
