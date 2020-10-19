@@ -43,7 +43,7 @@ This ChatBot's Intention is to bridge the gap of finding problems based on the t
 	pip install datetime
 [datetime](https://pypi.org/project/datetime/) helps in finding Date and Time. 
 
-## Block Diagram of our Bot :
+## Block Diagram :
 
 ## Youtube Link :
 
