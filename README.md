@@ -1,6 +1,7 @@
 # CodeForcesBot
 
 [![Pyttsx3 Version](https://img.shields.io/badge/pyttsx3-2.90-green)](https://pypi.org/project/pyttsx3/)
+[![Random Version](https://img.shields.io/badge/random-1.0.1-blue)](https://pypi.org/project/random2/)
 
 # Objective
 This is a ChatBot which helps in finding Programs based on the Users input Tags and responds with a random sequence of 10 programs from the website codeforces.com followed by thier respective Links.
