@@ -1,4 +1,4 @@
-# [Ml Project](https://miro.medium.com/max/1050/1*E3GYv4MaeXpm7Rfu5f4Bug.png)
+# ![Ml Project](https://miro.medium.com/max/1050/1*E3GYv4MaeXpm7Rfu5f4Bug.png)
 
 ## Our Team :-
  * Gera Abhishek ( 19pa1a0548 )
