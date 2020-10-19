@@ -19,9 +19,11 @@
  * Bots are automated, which means they run according to their instructions without a human user needing to start them up.
  * Typically they do repetitive tasks, and they can do them much faster than human users could.
 
-## Objective
+## 
 
-At First this chatbot welcomes the user randomly and then asks for the users name . After than it outputs the Greeting through Voice message .And then prints the remaining message .
+At First this chatbot welcomes the user randomly and then asks for the users name . 
+
+After than it outputs the Greeting through Voice message .And then prints the remaining message .
 
 Then the menu will be printed in the console for the user to choose any given option.It recursivley asks for the User option unitll the user ends the chatbot.
 	
