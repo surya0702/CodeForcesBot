@@ -19,13 +19,13 @@ This ChatBot's Intention is to bridge the gap of finding problems based on the t
 # References 
 	
 	pip install requests
-[requests](https://pypi.org/project/requests/) Allows us to send HTTP requests easily.
+[requests](https://pypi.org/project/requests/) allows us to send HTTP requests easily.
 		
 	pip install pyttsx3
-[pyttsx3](https://pypi.org/project/pyttsx3/) Converts Text to speech.
+[pyttsx3](https://pypi.org/project/pyttsx3/) converts Text to speech.
 		
 	pip install random
-[random](https://pypi.org/project/random/) Selects a random object in a given range
+[random](https://pypi.org/project/random/) selects a random object in a given range
 		
 	pip install datetime
 [datetime](https://pypi.org/project/datetime/) helps in finding Date and Time. 
