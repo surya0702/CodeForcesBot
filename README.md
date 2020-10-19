@@ -1,4 +1,5 @@
 # CodeForcesBot
+This is a ChatBot which helps in finding Programs based on the Users input Tags and responds with a random sequence of 10 programs from the website codeforces.com followed by thier respective Links.
 
 [![Requests Version](https://img.shields.io/badge/requests-2.24.0-orange)](https://pypi.org/project/requests/)
 [![Pyttsx3 Version](https://img.shields.io/badge/pyttsx3-2.90-green)](https://pypi.org/project/pyttsx3/)
@@ -6,7 +7,6 @@
 [![DateTime Version](https://img.shields.io/badge/datetime-4.3-red)](https://pypi.org/project/datetime/)
 
 # Objective
-This is a ChatBot which helps in finding Programs based on the Users input Tags and responds with a random sequence of 10 programs from the website codeforces.com followed by thier respective Links.
 
 At First this chatbot welcomes the user randomly and then asks for the users name . After than it outputs the Greeting through Voice message .And then prints the remaining message .
 
