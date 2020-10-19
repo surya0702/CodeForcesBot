@@ -1,9 +1,9 @@
-## Ml Project
+# Ml Project
 
-# Our Team :-
- * Abhishek 
- * Bharani
- * Surya Teja Tumarada ( 18pa1a05g1 )
+## Our Team :-
+ * Gera Abhishek ( 19pa1a0548 )
+ * Tirumala Bharani ( 19pa1a05i1 )
+ * Tumarada Surya Teja ( 18pa1a05g1 )
 
 # CodeForcesBot
 This is a ChatBot which helps in finding Programs based on the Users input Tags and responds with a random sequence of 10 programs from the website codeforces.com followed by thier respective Links.
