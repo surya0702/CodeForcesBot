@@ -19,7 +19,7 @@
  * Bots are automated, which means they run according to their instructions without a human user needing to start them up.
  * Typically they do repetitive tasks, and they can do them much faster than human users could.
 
-# Objective
+## Objective
 
 At First this chatbot welcomes the user randomly and then asks for the users name . After than it outputs the Greeting through Voice message .And then prints the remaining message .
 
@@ -29,7 +29,7 @@ Through this chatbot users can easily search the programs based on their interes
 
 This ChatBot's Intention is to bridge the gap of finding problems based on the topics with ease through a console.
 
-# Installation & References
+## Installation & References
 	
 	pip install requests
 [requests](https://pypi.org/project/requests/) allows us to send HTTP requests easily.
@@ -43,8 +43,8 @@ This ChatBot's Intention is to bridge the gap of finding problems based on the t
 	pip install datetime
 [datetime](https://pypi.org/project/datetime/) helps in finding Date and Time. 
 
-# Block Diagram of our Bot :
+## Block Diagram of our Bot :
 
-# Youtube Link :
+## Youtube Link :
 
-![screenshot-nimbus-capture-2020 10 19-17_14_49](https://user-images.githubusercontent.com/72602927/96446734-14ffbf80-122f-11eb-815f-30c5f3112d2c.png)(https://youtu.be/YOr-dkpKeMI)
+[![Youtube Link](https://user-images.githubusercontent.com/72602927/96446734-14ffbf80-122f-11eb-815f-30c5f3112d2c.png)](https://youtu.be/YOr-dkpKeMI)
