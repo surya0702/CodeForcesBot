@@ -19,7 +19,7 @@
  * Bots are automated, which means they run according to their instructions without a human user needing to start them up.
  * Typically they do repetitive tasks, and they can do them much faster than human users could.
 
-## Inner Process of the Bot
+## Description 
 
 At First this chatbot welcomes the user randomly and then asks for the users name . 
 
